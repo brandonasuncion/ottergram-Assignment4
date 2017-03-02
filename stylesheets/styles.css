@@ -92,7 +92,7 @@ a {
 .detail-image-frame {
     position: relative;
     text-align: center;
-    transition: transform 333m cubic-bezier(1, .06, .28, 1);
+    transition: transform 333ms cubic-bezier(1, .06, .28, 1);
 }
 
 .is-tiny {
@@ -109,7 +109,7 @@ a {
     bottom: -16px;
     left: 4px;
     font-family: airstreamregular;
-    color: white;
+color: white;
     text-shadow: rgba(0, 0, 0, 0.9) 1px 2px 9px;
     font-size: 40px;
 }
